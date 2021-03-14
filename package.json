@@ -1,0 +1,28 @@
+{
+  "name": "2captcha-solver",
+  "version": "1.0.0",
+  "description": "A module to solve google's recaptcha v2 using the 2captcha service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ishq_dehlvi/2captcha-solver.git"
+  },
+  "keywords": [
+    "bypass",
+    "recaptcha",
+    "captcha",
+    "google",
+    "2captcha"
+    "recaptcha solver"
+    "bypass captcha"
+  ],
+  "author": "g0dc0ded",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ishq_dehlvi"
+  },
+  "homepage": "https://github.com/Ishq_dehlvi/2captcha-solver#readme"
+}
